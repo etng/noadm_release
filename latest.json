@@ -1,0 +1,23 @@
+{
+  "version": "0.5.1",
+  "released_at": "2026-10-29T03:02:23Z",
+  "notes": "自动发布 v0.5.1",
+  "assets": {
+    "linux-amd64": {
+      "url": "https://github.com/etng/noadm_release/releases/download/v0.5.1/noadm-linux-amd64",
+      "sha256": "aa9fe24b5000bc225199a9858197a474e94f5ac1d7d8665f589b13c6f1f51d32"
+    },
+    "linux-arm64": {
+      "url": "https://github.com/etng/noadm_release/releases/download/v0.5.1/noadm-linux-arm64",
+      "sha256": "aa3a9d1836eb239e1b0672b461d3badb7f9d475819e919168eab35cd9f78c1d9"
+    },
+    "darwin-amd64": {
+      "url": "https://github.com/etng/noadm_release/releases/download/v0.5.1/noadm-darwin-amd64",
+      "sha256": "445abcac9977a153878e9e76e8288ff22c1b980e4a7ee29a07a8bec085abbf3e"
+    },
+    "darwin-arm64": {
+      "url": "https://github.com/etng/noadm_release/releases/download/v0.5.1/noadm-darwin-arm64",
+      "sha256": "653add3ed59e7125cfdbe9f1ee7f6fb08a5f0006e73bcb78330ae4f428a4e99c"
+    }
+  }
+}
